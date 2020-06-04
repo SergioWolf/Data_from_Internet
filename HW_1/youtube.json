@@ -1,0 +1,166 @@
+{
+  "kind": "youtube#SubscriptionListResponse",
+  "etag": "Jg3DNEPGTDuCZVDoB-thuf4FW5c",
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 51,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#subscription",
+      "etag": "UOu0zZD4BKaOJfnIS2HlLWOhyjA",
+      "id": "NqralRIkco3eYbDDoBro0gdRO91oGIwNuhDzp6K6uCo",
+      "snippet": {
+        "publishedAt": "2019-01-28T12:59:18.757000Z",
+        "title": "Ксения Собчак",
+        "description": "",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCvQXaJTjA3jRucTKN4CGiwg"
+        },
+        "channelId": "UCHimprdgYbDi8E1az7zbiIQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-8MJxWi_NhQA/AAAAAAAAAAI/AAAAAAAAAAA/KrbRuKpAuvI/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-8MJxWi_NhQA/AAAAAAAAAAI/AAAAAAAAAAA/KrbRuKpAuvI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-8MJxWi_NhQA/AAAAAAAAAAI/AAAAAAAAAAA/KrbRuKpAuvI/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        }
+      },
+      "contentDetails": {
+        "totalItemCount": 65,
+        "newItemCount": 1,
+        "activityType": "all"
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "63cC9HRVgEp6v_aRJe9TNLQ-F8o",
+      "id": "NqralRIkco08tikYCBv8RdDv2hN6bT9BzrA-KHxq9_Q",
+      "snippet": {
+        "publishedAt": "2018-06-01T06:09:34.298000Z",
+        "title": "вДудь",
+        "description": "Здесь задают вопросы",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCMCgOm8GZkHp8zJ6l7_hIuA"
+        },
+        "channelId": "UCHimprdgYbDi8E1az7zbiIQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-OJcXERwZVWI/AAAAAAAAAAI/AAAAAAAAAAA/XzNtwPu5q6M/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-OJcXERwZVWI/AAAAAAAAAAI/AAAAAAAAAAA/XzNtwPu5q6M/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-OJcXERwZVWI/AAAAAAAAAAI/AAAAAAAAAAA/XzNtwPu5q6M/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        }
+      },
+      "contentDetails": {
+        "totalItemCount": 108,
+        "newItemCount": 1,
+        "activityType": "all"
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "UuHDF6-mgW7PMERkTlGiXIarqOk",
+      "id": "NqralRIkco2Zc_sKHLBdGeR-BI4G0WbBVIVioQYP6cQ",
+      "snippet": {
+        "publishedAt": "2019-04-23T14:41:47.935000Z",
+        "title": "Редакция",
+        "description": "Ютьюб-канал Алексея Пивоварова.\n\nТеперь журналистика есть и в Ютьюбе!\n\nСотрудничество:\ninfo@redakciya.com\n\nРеклама:\nnewsroom@blogo-sphere.com\n\nПри поддержке RTVI: https://www.youtube.com/user/myRTVI",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UC1eFXmJNkjITxPFWTy6RsWg"
+        },
+        "channelId": "UCHimprdgYbDi8E1az7zbiIQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-chYEVRQGaW4/AAAAAAAAAAI/AAAAAAAAAAA/mF56WKIiTAw/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-chYEVRQGaW4/AAAAAAAAAAI/AAAAAAAAAAA/mF56WKIiTAw/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-chYEVRQGaW4/AAAAAAAAAAI/AAAAAAAAAAA/mF56WKIiTAw/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        }
+      },
+      "contentDetails": {
+        "totalItemCount": 96,
+        "newItemCount": 1,
+        "activityType": "all"
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "1ILO9KCB6HRcxyYrRsU5f7kNBjg",
+      "id": "NqralRIkco3eYbDDoBro0gK3uzFSAoaeiZVTUXLXNdo",
+      "snippet": {
+        "publishedAt": "2018-08-07T07:57:02.668000Z",
+        "title": "Своим Ходом - Виталик и Лиза",
+        "description": "Traveling His Turn with Vitalik and Lisa. More than 45 countries and all of them are on our channel about independent travel. You are waiting for adventures from different parts of the world. In our arsenal there are moto trips, cycling trips, trips and cruises. We tell how to travel around the countries on their own and budget. If you are interested in tourism, a trip to the most beautiful places, you are looking for interesting routes or just want to relax on the all-inclusive system, then our channel will help you with the choice of a place and simply inspire you to travel independently.",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCBOCc9WU8ILvk8brsH7ey5w"
+        },
+        "channelId": "UCHimprdgYbDi8E1az7zbiIQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-etEOFydr2zI/AAAAAAAAAAI/AAAAAAAAAAA/8xaN2rIDRUQ/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-etEOFydr2zI/AAAAAAAAAAI/AAAAAAAAAAA/8xaN2rIDRUQ/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-etEOFydr2zI/AAAAAAAAAAI/AAAAAAAAAAA/8xaN2rIDRUQ/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        }
+      },
+      "contentDetails": {
+        "totalItemCount": 329,
+        "newItemCount": 1,
+        "activityType": "all"
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "R3yNrcixYwFKptLYzwcQDmpdoFA",
+      "id": "NqralRIkco3eYbDDoBro0jyjPr4kCHOoCYhZaKhwYXc",
+      "snippet": {
+        "publishedAt": "2018-12-14T13:12:33.622000Z",
+        "title": "А поговорить?",
+        "description": "Ирина Шихман берет эксклюзивные интервью у самых неожиданных гостей! \nА поговорить?..  - авторское, профессиональное, глубокое интервью и документальные фильмы",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCp2J7GRxQ36QLqW4ReLLt5g"
+        },
+        "channelId": "UCHimprdgYbDi8E1az7zbiIQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-vGG4yn_cPFw/AAAAAAAAAAI/AAAAAAAAAAA/ZR8I08-seDA/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-vGG4yn_cPFw/AAAAAAAAAAI/AAAAAAAAAAA/ZR8I08-seDA/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-vGG4yn_cPFw/AAAAAAAAAAI/AAAAAAAAAAA/ZR8I08-seDA/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        }
+      },
+      "contentDetails": {
+        "totalItemCount": 120,
+        "newItemCount": 0,
+        "activityType": "all"
+      }
+    }
+  ]
+}
