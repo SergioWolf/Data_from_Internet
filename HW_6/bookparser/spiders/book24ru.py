@@ -24,17 +24,21 @@ class Book24ruSpider(scrapy.Spider):
 
     def parse(self, response:HtmlResponse):
 
-        next_page = response.css('button.js-pagination-catalog-item::attr(data-href)').extract_first()
-        next_page_link = self.main_url + next_page
-        books_links = response.css('div.catalog-products__list a.book__title-link::attr(href)').extract()
-        for link in books_links:
-            link_book = self.main_url + link
-            yield response.follow(link_book, callback=self.book_parce)
+        last_page = response.xpath("//div[@class='catalog-pagination__list']//a[4]/text()").extract_first()
+        if self.count_page < (int(last_page) + 1):
+            next_page = response.css('button.js-pagination-catalog-item::attr(data-href)').extract_first()
+            next_page_link = self.main_url + next_page
+            books_links = response.css('div.catalog-products__list a.book__title-link::attr(href)').extract()
+            for link in books_links:
+                link_book = self.main_url + link
+                yield response.follow(link_book, callback=self.book_parce)
 
-        self.count_page += 1
-        print(self.count_page)
-        yield response.follow(next_page_link, callback=self.parse)
-
+            yield response.follow(next_page_link, callback=self.parse)
+            self.count_page += 1
+            print(self.count_page)
+        else:
+            print('Сбор данных окончен')
+            print(self.count_page)
 
     def book_parce(self, response: HtmlResponse):
         link_book = response.url
