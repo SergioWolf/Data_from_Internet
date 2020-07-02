@@ -1,0 +1,5 @@
+db.hola_mexico_cancun.find({'user_attribute' : 'subscription'})
+db.hola_mexico_cancun.find({'user_attribute' : 'subscriber'})
+
+db.dominicana.pro.find({'user_attribute' : 'subscription'})
+db.dominicana.pro.find({'user_attribute' : 'subscriber'})
